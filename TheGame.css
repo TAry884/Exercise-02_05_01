@@ -1,0 +1,38 @@
+/*
+Author: Ty Ary
+Date: 10.16.18
+
+Filename:TheGame.css
+*/
+
+.formFields {
+    border: 1px solid gray;
+    border-radius: 8px 8px;
+}
+
+textarea {
+    resize: none;
+}
+
+html {
+    background-color: ;
+}
+
+table {
+    width: 20%;
+    table-layout: fixed;
+    margin-left: 15%;
+}
+
+table td:first-of-type {
+    width: 70%;
+    text-align: left;
+}
+
+
+#styling {
+    text-align: right;
+    width: 50%;
+    font-size: 0.8em;
+    border: 1px solid black;
+}
